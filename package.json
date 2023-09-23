@@ -15,7 +15,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "dependencies": {
     "base-64": "^1.0.0",
     "bcrypt": "^5.1.0",
